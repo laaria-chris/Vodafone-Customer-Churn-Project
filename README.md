@@ -70,39 +70,23 @@ These are the key libraries used in the project.
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+`
 
-This is a list things you need to run the notebook and how to install them.
-
-* Python V3.11.6
-```pip install Python```
-
-* Pandas
-```pip install pandas```
-
-* Matplotlib
-```pip install matplotlib```
-
-* Seaborn
-```pip install seaborn```
-
-* Jupyter Notebook
-```pip install Jupyter```
-
-* imbLearn
-```pip install imblearn```
-
-* xgboost
-```pip install xgboost```
-
-### Installation
+### Installation and Usage
 
 _Below is an example of how you can install and run the notebook. This project relies on any external dependencies or services. Internet connectivity is necessary_
 
-1. Clone the repo
-   ```git clone https://github.com/Rama-Mwenda/Customer_Churn.git```
-   
-2. Install packages
+1. Clone the repository
+   ```git clone https://github.com/laaria-chris/Vodafone-Customer-Churn-Project.git```
+
+2. Navigate to the project directory
+    ```sh
+    cd Vodafone-Customer-Churn-Project
+    ```
+2. Install dependencies
+   ```sh
+   pip install -r requirements.txt
+    ```
 
 3. Download ```Customer-Churn-Dataset.csv``` and place it in the root directory.
 
