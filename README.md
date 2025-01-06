@@ -40,12 +40,13 @@ Your company executives at VodaFone have an interest reducing Customer Churn. Yo
 ### Project Structure
 The project uses the CRISP-DM Framework. 
 Our first part covers the Business Understanding and setting up the criteria for success.  
-we head to the second phase where we look at the Datasets we have and analyse them to understand the relationship between features and answer business questions.
+We head to the second phase where we look at the Datasets we have and analyse them to understand the relationship between features and answer business questions.
 We build a model to predict the target variable and evaluate the model performance.
 We finalise by a conclsuion of the Business Impact Assessment of the model and its performance.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Finally we deploy the application using an application interface using streamlit.This is an application that implements machine learning algortihms to predict the likelyhood of a customer discountinuing usage of service for Vodafone Telco. Users can interact with the Models on the prediction page, Check training data in Data Page, view visualizations on the dashboard page and see results of their input on History Page. 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### Built With
@@ -56,10 +57,9 @@ These are the key libraries used in the project.
 * Pandas
 * Seaborn
 * Matplotlib
-* PowerBI
+* Streamlit
 * SciKit Learn
 * XGBoost
-* imbLearn
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,6 +91,15 @@ _Below is an example of how you can install and run the notebook. This project r
 3. Download ```Customer-Churn-Dataset.csv``` and place it in the root directory.
 
 4. Run the notebook
+
+5. To run the project application, execute the following command:-
+    ```sh
+       streamlit run Home.py
+
+    ```
+- A webpage opens up to view the app
+- Test a prediction by clicking on the predicitons page
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
