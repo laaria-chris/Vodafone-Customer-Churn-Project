@@ -104,18 +104,12 @@ _Below is an example of how you can install and run the notebook. This project r
    
 2. Install packages
 
-3. Download ```train_data.csv``` and place it in the root directory.
+3. Download ```Customer-Churn-Dataset.csv``` and place it in the root directory.
 
 4. Run the notebook
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- USAGE -->
-## Usage
-The Analysis was deployed on a powerbi dashboard like below. The dashboard is interactive and can be used to gather insights.
-
 
 
 
@@ -149,9 +143,9 @@ Distributed under the  GNU GENERAL PUBLIC LICENSE. See `LICENSE.txt` for more in
 <!-- CONTACT -->
 ## Contact
 
-Ramadhan Mwenda - [www.linkedin.com/in/ramadhanmwenda](www.linkedin.com/in/ramadhanmwenda) - ramadhanmwenda@azubiafrica.org
+Laaria Chris - [www.linkedin.com/in/laaria-chris-641759173](www.linkedin.com/in/ramadhanmwenda)
 
-Project Link: [https://github.com/Rama-Mwenda/Customer_Churn](https://github.com/Rama-Mwenda/Customer_Churn)
+Project Link: [https://github.com/laaria-chris/Vodafone-Customer-Churn-Project.git](https://github.com/laaria-chris/Vodafone-Customer-Churn-Project.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
